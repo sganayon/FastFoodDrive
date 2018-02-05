@@ -1,0 +1,25 @@
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\test BDD interface.exe.config
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\basemacdo.mdf
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\basemacdo_log.ldf
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\test BDD interface.exe
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\test BDD interface.pdb
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test BDD interface.csprojResolveAssemblyReference.cache
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form1.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Properties.Resources.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test BDD interface.csproj.GenerateResource.Cache
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test BDD interface.exe
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test BDD interface.pdb
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form2.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form3.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form4.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\basemacdoDataSet.Designer.cs
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\basemacdoDataSet.xsc
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\basemacdoDataSet.xsd
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\bin\Debug\basemacdoDataSet.xss
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form5.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form6.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form8.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.FormValider.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form7.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form9.resources
+C:\Users\axel\Desktop\telecom\Info\csharp\test BDD interface\test BDD interface\obj\Debug\test_BDD_interface.Form10.resources
